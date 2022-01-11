@@ -1,0 +1,4 @@
+{
+  "client-id" : "oidc-demo",
+  "auth-server-url" : "http://localhost:8180/auth/"
+}
